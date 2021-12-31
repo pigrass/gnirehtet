@@ -1,3 +1,5 @@
+For MIUI, download apk from https://github.com/Biswa96/gnirehtet-miui
+
 # Gnirehtet (v2.5)
 
 This project provides **reverse tethering** over `adb` for Android: it
